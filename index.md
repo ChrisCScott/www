@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: post
+title: Christopher Scott
+permalink: /
+author: christopherscott
 ---
+
+Hello! I'm Christopher Scott. I'm a lawyer in Vancouver.
