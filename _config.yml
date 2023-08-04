@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christopherscott.ca" # the base hostname & protocol for your site, e.g. http://example.com
 locale: "en-us"
 logo: /images/logo.svg
+copyright: ""
 
 # Override default post URL style to omit categories and date:
 permalink: /:title
@@ -55,6 +56,27 @@ twitter:
   card: summary
 facebook:
   publisher: https://www.facebook.com/ccscott
+
+## Footer content:
+footer_links:
+  - title: Facebook
+    url: https://www.facebook.com/ccscott
+    icon: fab fa-facebook
+  - title: Twitter
+    url: https://twitter.com/ChrisCScott
+    icon: fab fa-twitter
+  - title: Mastodon
+    url: https://mstdn.ca/@ChrisCScott
+    icon: fab fa-mastodon
+  - title: Reddit
+    url: https://www.reddit.com/user/ChrisCScott
+    icon: fab fa-reddit
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/christophercscott/
+    icon: fab fa-linkedin
+  - title: GitHub
+    url: https://github.com/ChrisCScott
+    icon: fab fa-github
 
 # Custom tags:
 # This image will be used for social media 

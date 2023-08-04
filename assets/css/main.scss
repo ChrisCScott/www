@@ -1,0 +1,28 @@
+---
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+.author-avatar {
+    /* Center the author photo on small screens */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+  
+    /* Make the author photo bigger on large screens */
+    @include breakpoint($large) {
+      width: 300px;
+    }
+}
+
+/* Give the author photo more space */
+.layout--post {
+  .page-wrapper {
+    @include breakpoint($large) {
+      grid-template-columns: 300px 1fr;
+    }
+  }
+}
