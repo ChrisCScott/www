@@ -1,0 +1,23 @@
+christopherscott:
+  name: Christopher Scott
+  picture: /images/author/christopherscott.jpg
+  url: https://christopherscott.ca
+  links:
+    - title: Facebook
+      url: https://www.facebook.com/ccscott
+      icon: fab fa-facebook
+    - title: Twitter
+      url: https://twitter.com/ChrisCScott
+      icon: fab fa-twitter
+    - title: Mastodon
+      url: https://mstdn.ca/@ChrisCScott
+      icon: fab fa-mastodon
+    - title: Reddit
+      url: https://www.reddit.com/user/ChrisCScott
+      icon: fab fa-reddit
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/christophercscott/
+      icon: fab fa-linkedin
+    - title: GitHub
+      url: https://github.com/ChrisCScott
+      icon: fab fa-github

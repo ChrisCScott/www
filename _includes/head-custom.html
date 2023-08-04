@@ -1,0 +1,8 @@
+<!-- start custom head snippets -->
+{% unless page.image %}
+<meta property="og:image" content="{{ site.default_image | relative_url }}"/>
+{% endunless %}
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
+<link rel="icon" type="image/png" href="{{ '/images/favicon.png' | relative_url }}">
+<!-- end custom head snippets -->
