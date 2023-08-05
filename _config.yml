@@ -21,7 +21,7 @@
 title: Christopher Scott
 email: christopher@christopherscott.ca
 description: >-
-  The personal homepage of Christopher Scott, a lawyer in Vancouver, Canada.
+  The personal homepage of Christopher Scott: dad, lawyer, long-winded.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christopherscott.ca" # the base hostname & protocol for your site, e.g. http://example.com
 locale: "en-us"
